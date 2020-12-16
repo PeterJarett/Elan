@@ -1,1 +1,0 @@
-<?php echo "Salut je suis nouveau"; ?>
